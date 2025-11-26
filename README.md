@@ -5,7 +5,7 @@ A simple HTML-based web tool to validate password strength and provide user feed
 
 ##  Live Demo
 
-Check out the live version here: [mini-project-file-upload.vercel.app](https://mini-project-file-upload.vercel.app)
+Check out the live version here: [mini-project-file-upload.vercel.app](https://mini-project-five-psi.vercel.app/)
 
 ##  Project Structure
 
